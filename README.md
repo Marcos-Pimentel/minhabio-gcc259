@@ -39,3 +39,5 @@ Estou atualmente na minha segunda bolsa de Iniciação Científica trabalhando c
 
 ## **Recomendações**
 [Editor de texto em Markdown **Obsidian**](https://obsidian.md/)
+
+![Desenho](/img/Img.png)
